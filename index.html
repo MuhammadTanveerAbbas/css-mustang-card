@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/assets/img/Icon.png" type="image/png">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <title>Mustang Dark Horse</title>
+</head>
+
+<body>
+    <header class="header">
+        <nav class="nav container">
+            <a href="#" class="nav__logo">
+                Mustang Dark Horse
+            </a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="main container">
+        <div class="home grid">
+            <h1 class="home__title">Mustang</h1>
+
+            <div class="home__img">
+                <img src="assets/img/mustang.png" alt="2025 Mustang Dark Horse Premium" class="responsive-mustang-img">
+                <style>
+                    @media (max-width: 600px) {
+                        .responsive-mustang-img {
+                            max-width: 70% !important;
+                        }
+                    }
+                </style>
+            </div>
+
+            <div class="home__information">
+                <h2 class="home__subtitle">Unleash Pure Performance</h2>
+                <p class="home__description">
+                    The 2025 Mustang® Dark Horse™ Premium is a street-legal weapon. Boasting a naturally aspirated 5.0L
+                    Coyote™ V8 with track-proven handling, this machine is engineered to dominate both road and circuit.
+                </p>
+            </div>
+
+            <div class="box">
+                <div class="box__content box__medium">
+                    <ion-icon name="speedometer-outline" class="icon-box"></ion-icon>
+                    <h3 class="box__medium-title inline">4.1</h3>
+                    <span class="box__medium-description block">Sec.</span>
+                    <span class="box__medium-detail">0–60 mph</span>
+                </div>
+
+                <div>
+                    <div class="box__content box__small">
+                        <ion-icon name="trending-up-outline" class="icon-box icon-box--small"></ion-icon>
+                        <h3 class="box__small-title inline">168</h3>
+                        <span class="box__small-description block">mph</span>
+                        <span class="box__small-detail">Top Speed</span>
+                    </div>
+                    <div class="box__content box__small">
+                        <ion-icon name="flash-outline" class="icon-box icon-box--small"></ion-icon>
+                        <h3 class="box__small-title inline">500</h3>
+                        <span class="box__small-description block">HP</span>
+                        <span class="box__small-detail">Horsepower</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- ICONS -->
+    <script type="module" src="https://unpkg.com/ionicons@5.0.0/dist/ionicons/ionicons.esm.js"></script>
+
+    <!-- GSAP -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.4/gsap.min.js"></script>
+
+    <!-- MAIN -->
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>
