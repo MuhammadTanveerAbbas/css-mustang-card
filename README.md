@@ -21,7 +21,7 @@ Designed with precision, it delivers smooth visuals, engaging animations, and op
 
 ### 💡 Why it is
 Automotive brands demand **impactful, fast, and modern** web experiences.  
-**This project** showcases how clean HTML, CSS Grid, and JavaScript can create an **immersive and conversion-oriented** product showcase without heavy frameworks.
+**This project** showcases how clean HTML, CSS Grid, and JavaScript can create an **immersive and conversion oriented** product showcase without heavy frameworks.
 
 ---
 
