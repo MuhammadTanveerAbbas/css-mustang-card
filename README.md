@@ -101,5 +101,5 @@ Licensed under the **MIT License** free for personal, educational, or commercial
 ---
 
 <div align="center">
-Designed and Developed with 🧠 by <strong>Muhammad Tanveer Abbas</strong> 🌟
+Designed and Developed with ❤ by <strong>Muhammad Tanveer Abbas</strong> 🌟
 </div>
