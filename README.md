@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Mustang 🏴 Landing Page ⭐</h1>
   <p align="center">
-    A high performance, <strong>mobile first</strong> landing page designed for the <strong>2025 Ford Mustang® Dark Horse™ Premium</strong>.
+    A high performance, <strong>mobile first</strong> landing page designed for the <strong>2025 Ford Mustang® Dark Horse™</strong>
   </p>
   <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="HTML5 logo" />
